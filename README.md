@@ -4,7 +4,8 @@ A municipal Booster Pump Station modeled and documented in **Autodesk Revit 2027
 
 ![3D Cutaway Render](02_RENDERS/BPS_EAST_01.jpg)
 ![3D Cutaway Render](02_RENDERS/BPS_WEST_01.jpg)
-![3D Cutaway Render](02_RENDERS/ATL_BPS01_MECH.pdf)
+
+![Project Sheets](02_RENDERS/ATL_BPS01_MECH.pdf)
 
 ## 🔧 Project Scope & BIM Workflows
 * **Multi-Discipline Coordination:** Separate linked structural model (LOD 200) coordinated against a host mechanical process-piping model (LOD 350–400), controlling slab transparency, cut planes, and line weights via custom View Templates.
